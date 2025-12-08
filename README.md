@@ -1,29 +1,27 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">A passionate Frontend Developer | React.js | UI Engineer | JavaScript</h3>
+<h3 align="center">A passionate Frontend Developer | UI Engineer | React.js | JavaScript</h3>
 
 ---
-### 📈 Profile views
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan-0411&show_icons=true" height="10"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-0411&layout=compact" height="160"/>
+### 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chandan-0416&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ### 🚀 About Me  
 - 🔭 I’m currently working as a Frontend Developer with Technoheaven
 - 🌱 I’m currently learning React.js, Next.js, TypeScript, work flow and data flow (ie basic logic) in Backend Development
-- 💡 I've built projects like Food Ordering App, YouTube Clone with Optimized Features! and Netflix GenAI – a movie recommendation platform.
+- 💡 I've built projects like Food Ordering App, YouTube Clone with Optimized Features! and Netflix GenAI
 - 💬 Ask me about JavaScript, TypeScript, C++, React.js, Redux, Restful API, Next.Js, HTML5, CSS3 & Tailwind CSS
 - 📫 How to reach me chandankushwaha0411@gmail.com
 - 📄 Know about my experiences [View RESUME](https://drive.google.com/file/d/13xb4whR66JcsmntaL7GYZANkh0wW8i3I/view)
 - 🎯 Looking for an opportunity to grow as a Frontend Developer | UI Engineer
-- 
 ---
 
 ### 🔗 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/chandan-kushwaha-599534151/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="chandankushwaha0411@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://leetcode.com/u/chandan-0416/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://leetcode.com/chandan-0416/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
   <a href="https://www.instagram.com/chandan04._/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
