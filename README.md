@@ -2,15 +2,14 @@
 <h3 align="center">A passionate Frontend Developer | UI Engineer | React.js | JavaScript</h3>
 
 ---
-### 👀 Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chandan-0416&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ### 🚀 About Me  
 - 🔭 I’m currently working as a Frontend Developer with Technoheaven
-- 🌱 I’m currently learning React.js, Next.js, TypeScript, work flow and data flow (ie basic logic) in Backend Development
-- 💡 I've built projects like Food Ordering App, YouTube Clone with Optimized Features! and Netflix GenAI
+- 🌱 I’m currently learning React.js, Next.js, TypeScript, work flow and data flow (ie basic logic) in [Backend Development](https://github.com/chandan-0416/Backend-Project)
+- 💡 I've built projects like [Food Ordering App](https://trackfoods.netlify.app/), [YouTube Clone with Optimized Features!](https://youtube-qu.netlify.app/) and [Netflix GenAI](https://github.com/chandan-0416/netflix-GPT)
 - 💬 Ask me about JavaScript, TypeScript, C++, React.js, Redux, Restful API, Next.Js, HTML5, CSS3 & Tailwind CSS
 - 📫 How to reach me chandankushwaha0411@gmail.com
 - 📄 Know about my experiences [View RESUME](https://drive.google.com/file/d/13xb4whR66JcsmntaL7GYZANkh0wW8i3I/view)
@@ -21,7 +20,7 @@
 <p>
   <a href="https://www.linkedin.com/in/chandan-kushwaha-599534151/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="chandankushwaha0411@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://leetcode.com/chandan-0416/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://leetcode.com/chandan-0416/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/></a>
   <a href="https://www.instagram.com/chandan04._/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
@@ -33,6 +32,7 @@
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="40"/></a>
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp" height="40"/></a>
   <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>
