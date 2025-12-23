@@ -12,7 +12,7 @@
 - 💡 I've built projects like [Food Ordering App](https://trackfoods.netlify.app/), [YouTube Clone with Optimized Features!](https://youtube-qu.netlify.app/) and [Netflix GenAI](https://github.com/chandan-0416/netflix-GPT)
 - 💬 Ask me about JavaScript, TypeScript, C++, React.js, Redux, Restful API, Next.Js, HTML5, CSS3 & Tailwind CSS
 - 📫 How to reach me chandankushwaha0411@gmail.com
-- 📄 Know about my experiences [View RESUME](https://drive.google.com/file/d/13xb4whR66JcsmntaL7GYZANkh0wW8i3I/view)
+- 📄 Know about my experiences [View RESUME](https://drive.google.com/file/d/1Ppm0NsKXwC6DxruIRRguSUXHUlUQvV-5/view?usp=sharing)
 - 🎯 Looking for an opportunity to grow as a Frontend Developer | UI Engineer
 ---
 
