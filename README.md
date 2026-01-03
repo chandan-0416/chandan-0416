@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">A passionate Frontend Developer | UI Engineer | React.js | JavaScript</h3>
+<h3 align="center">A passionate Frontend Developer | TypeScript | JavaScript | React.js | Next.js </h3>
 
 ---
 <p align="left">
@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working as a Frontend Developer with Technoheaven
-- 🌱 I’m currently working with React.js, Next.js, TypeScript, JavaScript, and MERN Stack (with basic data structure - logic) in [Backend Development](https://github.com/chandan-0416/Backend-Project)
+- 🌱 I’m currently working on React.js, Next.js, TypeScript, JavaScript, and also familiar with MERN Stack - [Backend Development](https://github.com/chandan-0416/Backend-Project)
 - 💡 I've built projects like [Food Ordering App](https://trackfoods.netlify.app/), [YouTube Clone with Optimized Features!](https://youtube-qu.netlify.app/) and [Netflix GenAI](https://github.com/chandan-0416/netflix-GPT)
 - 💬 Ask me about JavaScript, TypeScript, C++, React.js, Redux, Restful API, Next.Js, HTML5, CSS3 & Tailwind CSS
 - 📫 How to reach me chandankushwaha0411@gmail.com
