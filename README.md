@@ -7,7 +7,7 @@
 </p>
 
 ### 🚀 About Me  
-- 🔭 I’m currently working as a Frontend Developer with Technoheaven
+- 🔭 I’m currently working as a Frontend Developer with [Technoheaven](https://www.technoheaven.com/)
 - 🌱 I’m currently working on React.js, Next.js, TypeScript, JavaScript, and also familiar with MERN Stack - [Backend Development](https://github.com/chandan-0416/Backend-Project)
 - 💡 I've built projects like [Food Ordering App](https://trackfoods.netlify.app/), [YouTube Clone with Optimized Features!](https://youtube-qu.netlify.app/) and [Netflix GenAI](https://github.com/chandan-0416/netflix-GPT)
 - 💬 Ask me about JavaScript, TypeScript, C++, React.js, Redux, Restful API, Next.Js, HTML5, CSS3 & Tailwind CSS
