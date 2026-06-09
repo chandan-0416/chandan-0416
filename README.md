@@ -48,7 +48,7 @@
 * Feature-rich YouTube clone with optimized API handling and real-time interactions.
 * Tech Stack: React.js, Redux Toolkit, YouTube Data API
 
-**Features:** • Debounced Search • Live Chat • Nested Comments • Performance Optimization
+* Features: Debounced Search, Live Chat, Nested Comments, Performance Optimization
 
 ---
 
