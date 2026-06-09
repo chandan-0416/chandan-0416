@@ -12,9 +12,9 @@
 - 🎯 Looking for opportunities as Frontend Developer / React Developer / Software Engineer.
 
 ---
-## 💼 Professional Experience
+### 💼 Professional Experience
 
-### Frontend Developer | Technoheaven Consultancy Pvt. Ltd.
+#### Frontend Developer | Technoheaven Consultancy Pvt. Ltd.
 
 * Built SEO-friendly travel web applications using Next.js with SSR and SSG.
 * Integrated RESTful APIs and optimized asynchronous data fetching.
@@ -23,7 +23,7 @@
 * Improved application performance through code splitting and lazy loading.
 * Collaborated with teams to debug and resolve frontend issues.
 
-### Web Developer Intern | AajNeeti Advertising Pvt. Ltd.
+#### Web Developer Intern | AajNeeti Advertising Pvt. Ltd.
 
 * Developed reusable React.js components for high-traffic web applications.
 * Integrated REST APIs and dynamic JSON-based content rendering.
@@ -31,51 +31,48 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🎬 Netflix GenAI
+#### 🎬 Netflix GenAI
 
-AI-powered movie recommendation platform integrating TMDB API and Gemini AI.
+* AI-powered movie recommendation platform integrating TMDB API and Gemini AI.
+* Tech Stack: React.js, Redux Toolkit, Tailwind CSS, Firebase, TMDB API, Gemini API
 
-**Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Firebase, TMDB API, Gemini API
+#### 🍔 Food Ordering App
 
-### 🍔 Food Ordering App
+* Modern food ordering platform inspired by Swiggy with real-time restaurant data.
+* Tech Stack: React.js, Redux Toolkit, Tailwind CSS, Jest
 
-Modern food ordering platform inspired by Swiggy with real-time restaurant data.
+#### 📺 YouTube Clone
 
-**Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Jest
+* Feature-rich YouTube clone with optimized API handling and real-time interactions.
+* Tech Stack: React.js, Redux Toolkit, YouTube Data API
 
-### 📺 YouTube Clone
-
-Feature-rich YouTube clone with optimized API handling and real-time interactions.
-
-**Tech Stack:** React.js, Redux Toolkit, YouTube Data API
-
-Features: • Debounced Search • Live Chat • Nested Comments • Performance Optimization
+**Features:** • Debounced Search • Live Chat • Nested Comments • Performance Optimization
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Frontend
+#### Frontend
 
 React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • HTML5 • CSS3 • Tailwind CSS
 
-### Backend & Database
+#### Backend & Database
 
 Node.js • Express.js • MongoDB
 
-### Tools
+#### Tools
 
 Git • GitHub • VS Code • Postman • Cursor • ChatGPT
 
-### Core Concepts
+#### Core Concepts
 
 Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization • AI Integration
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 * 1+ years of professional software development experience.
 * Solved 150+ DSA problems on LeetCode.
@@ -108,8 +105,8 @@ Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 📧 Email: chandankushwaha0411@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/chandan274702/) • [GitHub](https://github.com/chandan-0416/) • [LeetCode](https://leetcode.com/u/chandan-0416/)
+• [LinkedIn](https://www.linkedin.com/in/chandan274702/)  • [GitHub](https://github.com/chandan-0416/)  • [LeetCode](https://leetcode.com/u/chandan-0416/)
