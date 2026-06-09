@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">"Frontend Developer | 1+ Years Experience | React.js | Next.js | TypeScript | Actively Seeking SDE-1 (Frontend) Opportunities."</h3>
+<h3 align="center">Frontend Developer | 1+ Years Experience | React.js | Next.js | TypeScript | Actively Seeking SDE-1 (Frontend) Opportunities</h3>
 
 ---
 
@@ -33,30 +33,25 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix GenAI
+### 🎬 Netflix GenAI [GitHub-Link](https://github.com/chandan-0416/netflix-GPT)
 
 AI-powered movie recommendation platform integrating TMDB API and Gemini AI.
 
 **Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Firebase, TMDB API, Gemini API
 
-### 🍔 Food Ordering App
+### 🍔 Food Ordering App [GitHub-Link](https://github.com/chandan-0416/Foodie.io)
 
 Modern food ordering platform inspired by Swiggy with real-time restaurant data.
 
 **Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Jest
 
-### 📺 YouTube Clone
+### 📺 YouTube Clone[GitHub-Link](https://github.com/chandan-0416/Namaste-youTube)
 
 Feature-rich YouTube clone with optimized API handling and real-time interactions.
 
 **Tech Stack:** React.js, Redux Toolkit, YouTube Data API
 
-Features:
-
-* Debounced Search
-* Live Chat
-* Nested Comments
-* Performance Optimization
+Features: * Debounced Search * Live Chat * Nested Comments * Performance Optimization
 
 ---
 
@@ -89,27 +84,6 @@ Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization
 * Completed React.js and JavaScript certification from NamasteDev.
 
 ---
- 
-## 🏆 Achievements
-
-* 1+ years of professional software development experience.
-* Solved 150+ DSA problems on LeetCode.
-* Earned multiple LeetCode 50 Days Badges.
-* Built multiple production-level React.js and Next.js applications.
-* Completed React.js and JavaScript certification from NamasteDev.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: [chandankushwaha0411@gmail.com](mailto:chandankushwaha0411@gmail.com)
-
-💼 LinkedIn: (https://www.linkedin.com/in/chandan274702/)
-
-💻 GitHub: (github.com/chandan-0416)
-
-🧩 LeetCode: (leetcode.com/chandan-0416)
-
 
 ### 🔗 Language and Tools
 <p>
@@ -131,3 +105,15 @@ Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [chandankushwaha0411@gmail.com](mailto:chandankushwaha0411@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/chandan274702/
+
+💻 GitHub: https://github.com/chandan-0416
+
+🧩 LeetCode: https://leetcode.com/u/chandan-0416/
