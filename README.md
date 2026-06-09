@@ -33,25 +33,25 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix GenAI [GitHub-Link](https://github.com/chandan-0416/netflix-GPT)
+### 🎬 Netflix GenAI
 
 AI-powered movie recommendation platform integrating TMDB API and Gemini AI.
 
 **Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Firebase, TMDB API, Gemini API
 
-### 🍔 Food Ordering App [GitHub-Link](https://github.com/chandan-0416/Foodie.io)
+### 🍔 Food Ordering App
 
 Modern food ordering platform inspired by Swiggy with real-time restaurant data.
 
 **Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Jest
 
-### 📺 YouTube Clone[GitHub-Link](https://github.com/chandan-0416/Namaste-youTube)
+### 📺 YouTube Clone
 
 Feature-rich YouTube clone with optimized API handling and real-time interactions.
 
 **Tech Stack:** React.js, Redux Toolkit, YouTube Data API
 
-Features: * Debounced Search * Live Chat * Nested Comments * Performance Optimization
+Features: • Debounced Search • Live Chat • Nested Comments • Performance Optimization
 
 ---
 
@@ -110,10 +110,6 @@ Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization
 
 ## 📫 Connect With Me
 
-📧 Email: [chandankushwaha0411@gmail.com](mailto:chandankushwaha0411@gmail.com)
+📧 Email: chandankushwaha0411@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/chandan274702/
-
-💻 GitHub: https://github.com/chandan-0416
-
-🧩 LeetCode: https://leetcode.com/u/chandan-0416/
+[LinkedIn](https://www.linkedin.com/in/chandan274702/) • [GitHub](https://github.com/chandan-0416/) • [LeetCode](https://leetcode.com/u/chandan-0416/)
