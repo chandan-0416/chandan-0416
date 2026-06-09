@@ -1,30 +1,115 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">A passionate Frontend Developer | TypeScript | JavaScript | React.js | Next.js </h3>
+<h3 align="center">"Frontend Developer | 1+ Years Experience | React.js | Next.js | TypeScript | Actively Seeking SDE-1 (Frontend) Opportunities."</h3>
 
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chandan-0416&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ### 🚀 About Me  
-- 🔭 I’m currently working as a Frontend Developer with [Technoheaven](https://www.technoheaven.com/)
-- 🌱 I’m currently working on React.js, Next.js, TypeScript, JavaScript, and also familiar with MERN Stack - [Backend Development](https://github.com/chandan-0416/Backend-Project)
-- 💡 I've built projects like [Food Ordering App](https://trackfoods.netlify.app/), [YouTube Clone with Optimized Features!](https://youtube-qu.netlify.app/) and [Netflix GenAI](https://github.com/chandan-0416/netflix-GPT)
-- 💬 Ask me about JavaScript, TypeScript, C++, React.js, Redux, Restful API, Next.Js, HTML5, CSS3 & Tailwind CSS
-- 📫 How to reach me chandankushwaha0411@gmail.com
-- 📄 Know about my experiences [View RESUME](https://drive.google.com/file/d/1Ppm0NsKXwC6DxruIRRguSUXHUlUQvV-5/view?usp=sharing)
-- 🎯 Looking for an opportunity to grow as a Frontend Developer | React.js Developer | UI Engineer
----
-
-### 🔗 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/chandan-kushwaha-599534151/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="chandankushwaha0411@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://leetcode.com/chandan-0416/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/></a>
-  <a href="https://www.instagram.com/chandan04._/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
+- 💼 Frontend Developer with 1+ year of experience building responsive and scalable web applications.
+- ⚡ Specialized in React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, and Tailwind CSS.
+- 🔍 Strong understanding of REST APIs, State Management, Performance Optimization, and Modern Frontend Architecture.
+- 🚀 Passionate about solving DSA problems and building user-centric products.
+- 🌱 Currently exploring AI-powered applications and Full-Stack Development.
+- 🎯 Looking for opportunities as Frontend Developer / React Developer / Software Engineer.
 
 ---
+## 💼 Professional Experience
+
+### Frontend Developer | Technoheaven Consultancy Pvt. Ltd.
+
+* Built SEO-friendly travel web applications using Next.js with SSR and SSG.
+* Integrated RESTful APIs and optimized asynchronous data fetching.
+* Developed responsive and reusable UI components.
+* Implemented search and filtering features for enhanced user experience.
+* Improved application performance through code splitting and lazy loading.
+* Collaborated with teams to debug and resolve frontend issues.
+
+### Web Developer Intern | AajNeeti Advertising Pvt. Ltd.
+
+* Developed reusable React.js components for high-traffic web applications.
+* Integrated REST APIs and dynamic JSON-based content rendering.
+* Improved website performance and resolved production issues.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Netflix GenAI
+
+AI-powered movie recommendation platform integrating TMDB API and Gemini AI.
+
+**Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Firebase, TMDB API, Gemini API
+
+### 🍔 Food Ordering App
+
+Modern food ordering platform inspired by Swiggy with real-time restaurant data.
+
+**Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Jest
+
+### 📺 YouTube Clone
+
+Feature-rich YouTube clone with optimized API handling and real-time interactions.
+
+**Tech Stack:** React.js, Redux Toolkit, YouTube Data API
+
+Features:
+
+* Debounced Search
+* Live Chat
+* Nested Comments
+* Performance Optimization
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • HTML5 • CSS3 • Tailwind CSS
+
+### Backend & Database
+
+Node.js • Express.js • MongoDB
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Cursor • ChatGPT
+
+### Core Concepts
+
+Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization • AI Integration
+
+---
+
+## 🏆 Achievements
+
+* 1+ years of professional software development experience.
+* Solved 150+ DSA problems on LeetCode.
+* Earned multiple LeetCode 50 Days Badges.
+* Built multiple production-level React.js and Next.js applications.
+* Completed React.js and JavaScript certification from NamasteDev.
+
+---
+ 
+## 🏆 Achievements
+
+* 1+ years of professional software development experience.
+* Solved 150+ DSA problems on LeetCode.
+* Earned multiple LeetCode 50 Days Badges.
+* Built multiple production-level React.js and Next.js applications.
+* Completed React.js and JavaScript certification from NamasteDev.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [chandankushwaha0411@gmail.com](mailto:chandankushwaha0411@gmail.com)
+
+💼 LinkedIn: (https://www.linkedin.com/in/chandan274702/)
+
+💻 GitHub: (github.com/chandan-0416)
+
+🧩 LeetCode: (leetcode.com/chandan-0416)
+
 
 ### 🔗 Language and Tools
 <p>
