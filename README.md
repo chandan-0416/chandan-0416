@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">Frontend Developer | 1+ Years Experience | React.js | Next.js | TypeScript | Actively Seeking SDE-1 (Frontend) Opportunities</h3>
+<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Actively Seeking Frontend Developer (React.js) Opportunities</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 - 🔍 Strong understanding of REST APIs, State Management, Performance Optimization, and Modern Frontend Architecture.
 - 🚀 Passionate about solving DSA problems and building user-centric products.
 - 🌱 Currently exploring AI-powered applications and Full-Stack Development.
-- 🎯 Looking for opportunities as Frontend Developer / React Developer / Software Engineer.
+- 🎯 Looking for opportunities as Frontend Developer / React Developer / Software Developer.
 
 ---
 ### 💼 Professional Experience
@@ -74,7 +74,6 @@ Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization
 
 ### 🏆 Achievements
 
-* 1+ years of professional software development experience.
 * Solved 150+ DSA problems on LeetCode.
 * Earned multiple LeetCode 50 Days Badges.
 * Built multiple production-level React.js and Next.js applications.
