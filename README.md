@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me  
-- 💼 Frontend Developer with 1+ year of experience building responsive and scalable web applications.
+- 💼 Frontend Developer (React.js) with hands-on experience in building responsive and scalable web applications.
 - ⚡ Specialized in React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, and Tailwind CSS.
 - 🔍 Strong understanding of REST APIs, State Management, Performance Optimization, and Modern Frontend Architecture.
 - 🚀 Passionate about solving DSA problems and building user-centric products.
