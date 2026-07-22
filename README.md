@@ -74,8 +74,7 @@ Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization
 
 ### 🏆 Achievements
 
-* Solved 150+ DSA problems on LeetCode.
-* Earned multiple LeetCode 50 Days Badges.
+* Solved 200+ Data Structures and Algorithms problems on LeetCode and earned multiple coding badges. 
 * Built multiple production-level React.js and Next.js applications.
 * Completed React.js and JavaScript certification from NamasteDev.
 
