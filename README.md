@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Actively Seeking Frontend Developer (React.js) Opportunities</h3>
+<h3 align="center">Software Developer | FullStack Developer | React.js | Next.js | TypeScript, Node.js, MongoDB | Actively Seeking Full Stack Developer Opportunities</h3>
 
 ---
 
 ### 🚀 About Me  
-- 💼 Frontend Developer (React.js) with hands-on experience in building responsive and scalable web applications.
-- ⚡ Specialized in React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, and Tailwind CSS.
+- 💼 Full Stack Developer with hands-on experience in building responsive and scalable web applications.
+- ⚡ Specialized in React.js, Next.js, TypeScript, JavaScript, Node.js, MongoDB, Redux Toolkit, and Tailwind CSS.
 - 🔍 Strong understanding of REST APIs, State Management, Performance Optimization, and Modern Frontend Architecture.
 - 🚀 Passionate about solving DSA problems and building user-centric products.
 - 🌱 Currently exploring AI-powered applications and Full-Stack Development.
