@@ -4,15 +4,13 @@
 ---
 
 ### 🚀 About Me  
-Full Stack Developer with 2+ years of hands-on experience in full-stack web development, API integrations, and application  support. Proficient in React.js, Node.js, Express.js, and TypeScript, with a strong foundation in data structures, SQL/NoSQL  databases, and cloud deployment. Adept at translating business requirements into technical solutions and optimizing  software performance. 
+<h4> Full Stack Developer with 2+ years of hands-on experience in full-stack web development, API integrations, and application  support. Proficient in React.js, Node.js, Express.js, and TypeScript, with a strong foundation in data structures, SQL/NoSQL  databases, and cloud deployment. Adept at translating business requirements into technical solutions and optimizing  software performance. </h4>
 ---
 ### 💼 Professional Experience
 
 #### Frontend Developer | Technoheaven Consultancy Pvt. Ltd.
-
 Technologies Used:
 Next.js, React.js, JavaScript(ES6+), TypeScript, Redux, Restful APIs, Tailwind CSS, HTML5/CSS3 etc.
-
 Responsibilities:
 * Implemented SSR and SSG in Next.js to support SEO-friendly travel websites.
 * Implemented code splitting and lazy loading to optimize frontend performance.
@@ -24,10 +22,8 @@ Responsibilities:
 * Hands-on with Git, CI/CD pipelines, Agile methodologies.
 
 #### Web Developer Intern | AajNeeti Advertising Pvt. Ltd.
-
 Technologies Used:
 JavaScript, React, Redux, HTML5, CSS3, Bootstrap etc.
-
 Responsibilities:
 * Involved in the development and maintenance of company's website.
 * Assisting in the creation and implementation of new website features.
@@ -45,7 +41,6 @@ Responsibilities:
 * Core Concepts: DSA, OOPs, API Testing and Integration, CS Fundamentals
 
 ### 🏆 Achievements
-
 * Solved 200+ Data Structures and Algorithms problems on LeetCode and earned multiple coding badges. 
 * Built multiple production-level React.js and Next.js applications.
 * Completed React.js and JavaScript certification from NamasteDev.
