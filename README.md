@@ -10,49 +10,39 @@ Full Stack Developer with 2+ years of hands-on experience in full-stack web deve
 
 #### Frontend Developer | Technoheaven Consultancy Pvt. Ltd.
 
-* Built SEO-friendly travel web applications using Next.js with SSR and SSG.
-* Integrated RESTful APIs and optimized asynchronous data fetching.
-* Developed responsive and reusable UI components.
-* Implemented search and filtering features for enhanced user experience.
-* Improved application performance through code splitting and lazy loading.
-* Collaborated with teams to debug and resolve frontend issues.
+Technologies Used:
+Next.js, React.js, JavaScript(ES6+), TypeScript, Redux, Restful APIs, Tailwind CSS, HTML5/CSS3 etc.
+
+Responsibilities:
+* Implemented SSR and SSG in Next.js to support SEO-friendly travel websites.
+* Implemented code splitting and lazy loading to optimize frontend performance.
+* Developed search and filtering functionality for tour packages and destinations.
+* Ensured cross-browser compatibility and mobile responsiveness across web applications.
+* Integrated REST APIs to display tour packages, destinations, pricing, and booking information
+* Worked closely with backend developers to integrate APIs and deliver end-to-end features.
+* Participated in debugging, testing, and resolving frontend issues to improve application stability.
+* Hands-on with Git, CI/CD pipelines, Agile methodologies.
 
 #### Web Developer Intern | AajNeeti Advertising Pvt. Ltd.
 
-* Developed reusable React.js components for high-traffic web applications.
-* Integrated REST APIs and dynamic JSON-based content rendering.
-* Improved website performance and resolved production issues.
+Technologies Used:
+JavaScript, React, Redux, HTML5, CSS3, Bootstrap etc.
 
----
-
-### 🚀 Featured Projects
-
-#### 🎬 Netflix GenAI
-
-* AI-powered movie recommendation platform integrating TMDB API and Gemini AI.
-* Tech Stack: React.js, Redux Toolkit, Tailwind CSS, Firebase, TMDB API, Gemini API
-
-#### 🍔 Food Ordering App
-
-* Modern food ordering platform inspired by Swiggy with real-time restaurant data.
-* Tech Stack: React.js, Redux Toolkit, Tailwind CSS, Jest
-
-#### 📺 YouTube Clone
-
-* Feature-rich YouTube clone with optimized API handling and real-time interactions.
-* Tech Stack: React.js, Redux Toolkit, YouTube Data API
-
-* Features: Debounced Search, Live Chat, Nested Comments, Performance Optimization
-
+Responsibilities:
+* Involved in the development and maintenance of company's website.
+* Assisting in the creation and implementation of new website features.
+* Troubleshooting and resolving website issues promptly.
+* Ensuring website functionality and optimal performance.
+* Integrated REST APIs and handled JSON data for dynamic content rendering.
 ---
 
 ### 💻 Technical Skills
-• Programming Languages: JavaScript (ES6+), TypeScript, C++, SQL 
-• Frontend Development: React.js, Next.js, Redux/Redux-Toolkit, HTML5, CSS3, Tailwind CSS, Unit Testing (Jest)
-• Backend and Database: Node.js, Express.js, Restful APIs, JWT, MongoDB (NoSQL), PostgreSQL (SQL)
-• Development Tools and Cloud: Git, GitHub, Postman, AWS, CI/CD, Docker, Firebase, VS Code
-• AI Tools and Technologies: GitHub Copilot, Cursor, LLM APIs, LangChain, LangGraph, RAG, Vector Databases, AI Agents
-• Core Concepts: DSA, OOPs, API Testing and Integration, CS Fundamentals
+* Programming Languages: JavaScript (ES6+), TypeScript, C++, SQL 
+* Frontend Development: React.js, Next.js, Redux/Redux-Toolkit, HTML5, CSS3, Tailwind CSS, Unit Testing (Jest)
+* Backend and Database: Node.js, Express.js, Restful APIs, JWT, MongoDB (NoSQL), PostgreSQL (SQL)
+* Development Tools and Cloud: Git, GitHub, Postman, AWS, CI/CD, Docker, Firebase, VS Code
+* AI Tools and Technologies: GitHub Copilot, Cursor, LLM APIs, LangChain, LangGraph, RAG, Vector Databases, AI Agents
+* Core Concepts: DSA, OOPs, API Testing and Integration, CS Fundamentals
 
 ### 🏆 Achievements
 
