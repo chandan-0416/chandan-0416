@@ -4,8 +4,7 @@
 ---
 
 ### 🚀 About Me  
-<h3> Full Stack Developer with 2+ years of hands-on experience in full-stack web development, API integrations, and application  support. Proficient in React.js, Node.js, Express.js, and TypeScript, with a strong foundation in data structures, SQL/NoSQL  databases, and cloud deployment. Adept at translating business requirements into technical solutions and optimizing  software performance. </h3>
----
+<h4> Full Stack Developer with 2+ years of hands-on experience in full-stack web development, API integrations, and application  support. Proficient in React.js, Node.js, Express.js, and TypeScript, with a strong foundation in data structures, SQL/NoSQL  databases, and cloud deployment. Adept at translating business requirements into technical solutions and optimizing  software performance. </h4>
 
 ### 💼 Professional Experience
 
