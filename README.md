@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">Software Developer | FullStack Developer | React.js | Next.js | TypeScript, Node.js, MongoDB | Actively Seeking Full Stack Developer Opportunities</h3>
+<h3 align="center">Software Developer | Full Stack Developer | React.js | Next.js | TypeScript, Node.js, MongoDB | Actively Seeking Full Stack Developer Opportunities</h3>
 
 ---
 
 ### 🚀 About Me  
-- 💼 Full Stack Developer with hands-on experience in building responsive and scalable web applications.
-- ⚡ Specialized in React.js, Next.js, TypeScript, JavaScript, Node.js, MongoDB, Redux Toolkit, and Tailwind CSS.
-- 🔍 Strong understanding of REST APIs, State Management, Performance Optimization, and Modern Frontend Architecture.
-- 🚀 Passionate about solving DSA problems and building user-centric products.
-- 🌱 Currently exploring AI-powered applications and Full-Stack Development.
-- 🎯 Looking for opportunities as Frontend Developer / React Developer / Software Developer.
-
+Full Stack Developer with 2+ years of hands-on experience in full-stack web development, API integrations, and application  support. Proficient in React.js, Node.js, Express.js, and TypeScript, with a strong foundation in data structures, SQL/NoSQL  databases, and cloud deployment. Adept at translating business requirements into technical solutions and optimizing  software performance. 
 ---
 ### 💼 Professional Experience
 
@@ -52,25 +46,13 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-#### Frontend
-
-React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • HTML5 • CSS3 • Tailwind CSS
-
-#### Backend & Database
-
-Node.js • Express.js • MongoDB
-
-#### Tools
-
-Git • GitHub • VS Code • Postman • Cursor • ChatGPT
-
-#### Core Concepts
-
-Data Structures & Algorithms • REST APIs • OOPs • Performance Optimization • AI Integration
-
----
+### 💻 Technical Skills
+• Programming Languages: JavaScript (ES6+), TypeScript, C++, SQL 
+• Frontend Development: React.js, Next.js, Redux/Redux-Toolkit, HTML5, CSS3, Tailwind CSS, Unit Testing (Jest)
+• Backend and Database: Node.js, Express.js, Restful APIs, JWT, MongoDB (NoSQL), PostgreSQL (SQL)
+• Development Tools and Cloud: Git, GitHub, Postman, AWS, CI/CD, Docker, Firebase, VS Code
+• AI Tools and Technologies: GitHub Copilot, Cursor, LLM APIs, LangChain, LangGraph, RAG, Vector Databases, AI Agents
+• Core Concepts: DSA, OOPs, API Testing and Integration, CS Fundamentals
 
 ### 🏆 Achievements
 
