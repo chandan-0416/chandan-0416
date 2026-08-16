@@ -4,14 +4,15 @@
 ---
 
 ### 🚀 About Me  
-<h4> Full Stack Developer with 2+ years of hands-on experience in full-stack web development, API integrations, and application  support. Proficient in React.js, Node.js, Express.js, and TypeScript, with a strong foundation in data structures, SQL/NoSQL  databases, and cloud deployment. Adept at translating business requirements into technical solutions and optimizing  software performance. </h4>
+<h3> Full Stack Developer with 2+ years of hands-on experience in full-stack web development, API integrations, and application  support. Proficient in React.js, Node.js, Express.js, and TypeScript, with a strong foundation in data structures, SQL/NoSQL  databases, and cloud deployment. Adept at translating business requirements into technical solutions and optimizing  software performance. </h3>
 ---
+
 ### 💼 Professional Experience
 
 #### Frontend Developer | Technoheaven Consultancy Pvt. Ltd.
-Technologies Used:
+- Technologies Used:
 Next.js, React.js, JavaScript(ES6+), TypeScript, Redux, Restful APIs, Tailwind CSS, HTML5/CSS3 etc.
-Responsibilities:
+- Responsibilities:
 * Implemented SSR and SSG in Next.js to support SEO-friendly travel websites.
 * Implemented code splitting and lazy loading to optimize frontend performance.
 * Developed search and filtering functionality for tour packages and destinations.
@@ -22,9 +23,9 @@ Responsibilities:
 * Hands-on with Git, CI/CD pipelines, Agile methodologies.
 
 #### Web Developer Intern | AajNeeti Advertising Pvt. Ltd.
-Technologies Used:
+- Technologies Used:
 JavaScript, React, Redux, HTML5, CSS3, Bootstrap etc.
-Responsibilities:
+- Responsibilities:
 * Involved in the development and maintenance of company's website.
 * Assisting in the creation and implementation of new website features.
 * Troubleshooting and resolving website issues promptly.
