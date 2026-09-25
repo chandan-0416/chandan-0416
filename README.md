@@ -20,16 +20,7 @@ Next.js, React.js, JavaScript(ES6+), TypeScript, Redux, Restful APIs, Tailwind C
 * Worked closely with backend developers to integrate APIs and deliver end-to-end features.
 * Participated in debugging, testing, and resolving frontend issues to improve application stability.
 * Hands-on with Git, CI/CD pipelines, Agile methodologies.
-
-#### Web Developer Intern | AajNeeti Advertising Pvt. Ltd.
-- Technologies Used:
-JavaScript, React, Redux, HTML5, CSS3, Bootstrap etc.
-- Responsibilities:
-* Involved in the development and maintenance of company's website.
-* Assisting in the creation and implementation of new website features.
-* Troubleshooting and resolving website issues promptly.
-* Ensuring website functionality and optimal performance.
-* Integrated REST APIs and handled JSON data for dynamic content rendering.
+* 
 ---
 
 ### 💻 Technical Skills
