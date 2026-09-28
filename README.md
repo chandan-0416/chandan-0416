@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">Software Developer | Full Stack Developer | React.js | Next.js | TypeScript, Node.js, MongoDB | Actively Seeking Full Stack Developer Opportunities</h3>
+<h3 align="center">Full Stack Developer | SDE-1 (Frontend) | React.js, Next.js, TypeScript, Node.js, SQL/NoSQL, Docker, AWS | Currently seeking Full Stack Developer / SDE-1 (Frontend) opportunities</h3>
 
 ---
 
