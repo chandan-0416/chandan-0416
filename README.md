@@ -20,7 +20,6 @@ Next.js, React.js, JavaScript(ES6+), TypeScript, Redux, Restful APIs, Tailwind C
 * Worked closely with backend developers to integrate APIs and deliver end-to-end features.
 * Participated in debugging, testing, and resolving frontend issues to improve application stability.
 * Hands-on with Git, CI/CD pipelines, Agile methodologies.
-* 
 ---
 
 ### 💻 Technical Skills
